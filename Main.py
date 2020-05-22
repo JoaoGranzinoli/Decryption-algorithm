@@ -36,7 +36,6 @@ def decrypt(encrypted_text):
 
         #If returns false the key is changed and the process restart
         i =test_decrypted_text(decrypt_text)
-
         if cont < len(most_used_letters):
             cont += 1
         else:
