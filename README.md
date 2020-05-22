@@ -1,1 +1,3 @@
-# Algoritimo-de-descriptografação
+# Decryption-algorithm
+This algorithm was made so it would decrypt files that wore encrypted by a very similar encoding method as Caesar-Cipher, for that i receved a chart contaning values for all alphabetic letters and for some punctuiation, starting at 0 and going all the way till 30, after that it was given a file to decrypt with an uknow key added to each letter, after seeing that i anylized the given data and noticed that some letters reapeatly very oftten,so i`ve searched the most common letters and start tryng 
+on letters that most repeted and with some mistakes i got it, this algorythm does basically the same it goes for the letters that most appears in the text and try putting the most common letters as solutions for finding the key and getting te corect output.
