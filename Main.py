@@ -103,7 +103,7 @@ def test_decrypted_text(decrypt_text):
     cont = 0
     for letter in decrypt_text:
         if letter in SINS and cont+1<len(decrypt_text):
-            #
+
             if decrypt_text[cont+1] != " ":
                 return False
         cont+=1
