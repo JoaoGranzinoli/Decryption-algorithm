@@ -1,1 +1,3 @@
-# Algoritimo-de-descriptografação
+# Decryption-algorithm
+This project was made so it would decrypt files that wore encrypted by a very similar encoding method as Caesar-Cipher, for that, a chart containing values for all alphabetic letters and the last 5 values for punctuation, starting at 0 and going all the way till 30 is necessary, also it was provided a text file containing the text and a unknow key value added to each letter, so to resolve this challenge the algorithm used on the project reeds the file provided, analyze the sentence, sees witch letter is the most used and try getting the right key, by using the most common letters in the alphabet as parameters
+
