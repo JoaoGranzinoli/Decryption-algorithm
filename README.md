@@ -12,9 +12,9 @@ VOCE DECIFROU A MENSAGEM SECRETA. ESSE DESAFIO FAZ PARTE DA PRIMEIRA DO PROCESSO
 
 ```
 ## Usage
-To use Project after you install it,  open the project  with your preferable Editor or IDEs that`s compatible with python, and run the program you will see that the test file is already being initialized if you want to change the file of test go to  
+To use Project after you install it,  open the project  with your preferable Editor or IDEs that`s compatible with python, and run the program, you will see that the test file is already being initialized. If you want to change the file that is being tested inside the program go to:  
 
     #Openning the file
     reading_encrypted_text = open('SecretMessage.txt', 'r')
     
- Main.py and change .text for any equivalent file.     
+ Main.py and change .text for any equivalent file compatible with the program.     
